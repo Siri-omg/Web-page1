@@ -1,0 +1,9 @@
+#myNavbar {
+    font-family: cursive;
+    position: fixed;
+    margin-top: 0px;
+    z-index: 10;
+    cursor: pointer;
+    background: white;
+    width: 100%;
+}
